@@ -1,0 +1,9 @@
+{
+  "name": "code-sha-256",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "aws-sdk": "^2.215.1"
+  }
+}
