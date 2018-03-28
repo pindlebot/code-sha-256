@@ -1,5 +1,7 @@
 ## code-sha-256
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/unshift/code-sha-256.svg)](https://greenkeeper.io/)
+
 Compare local to remote sha-256 (for use with AWS Lambda). The use-case it to determine if you should update a function because the function's code has changed.
 
 ### Example
